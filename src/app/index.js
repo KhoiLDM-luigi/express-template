@@ -7,7 +7,7 @@ import bodyParser from "body-parser";
 import "dotenv/config";
 
 //module
-import rootRouter from "../module/root/index.js";
+import rootRouter from "../modules/root/index.js";
 
 //express
 const app = express();
